@@ -8,8 +8,11 @@
 # My career goals
 
 - Understand the Linux kernel and how it works
-- Create a cheat for an FPS game (CS 1.6 or perhaps AssaultCube)
+- Create a cheat for an old FPS game (CS 1.6 or perhaps AssaultCube)
 - Make a game
+
+> Feel free to watch my `technical-documentation` repository for my notes on various technical topics.   
+Link: https://github.com/RaiZiStyle/technical-documentation
 
 # Books that I have
 Some technical books I enjoyed:   
