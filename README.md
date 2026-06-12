@@ -35,6 +35,7 @@ Some technical books I enjoyed:
 - [Game Hacking: Developing Autonomous Bots for Online Games](https://www.amazon.fr/Game-Hacking-Developing-Autonomous-Online-ebook/dp/B01J4NKSRI?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2RUI55JFLACKU&dib=eyJ2IjoiMSJ9.ZZSUSCnaPGM20L24O8Kb6Q.ZSvupI2oF61ask_PupsV4yNIRF6DkW98LBCQ0B3GBzQ&dib_tag=se&keywords=Game+Hacking%3A+Developing+Autonomous+Bots+for+Online+Games&qid=1779260479&sprefix=game+hacking+developing+autonomous+bots+for+online+games%2Caps%2C136&sr=8-1)
 - [Internal Hacking et contre-mesures en environnement Windows](https://www.editions-eni.fr/livre/internal-hacking-et-contre-mesures-en-environnement-windows-piratage-interne-mesures-de-protection-developpement-d-outils-2e-edition-9782409008542)
 - [Python et l'analyse forensique](https://www.editions-eni.fr/livre/python-et-l-analyse-forensique-recuperer-et-analyser-les-donnees-produites-par-les-ordinateurs-9782409017902)
+
 Some story books I enjoyed realated to hacking and cybersecurity:
 - [The Art of Intrusion](https://www.amazon.fr/dp/0471782661?ref=ppx_yo2ov_dt_b_fed_asin_title)
 - [Ghost in the Wires](https://www.amazon.fr/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316212180)
